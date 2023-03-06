@@ -83,7 +83,7 @@ author: Dan Eckholm // IT-Pappa
 '''
 
 EXAMPLES = r'''
-- name: "Install Printer port"
+- name: "Install Printer"
   install_printer:
     name: "canon-test"
     printer_driver: generic / text only
