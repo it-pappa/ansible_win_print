@@ -1,4 +1,4 @@
-# Ansible Collection - win_print
+# Ansible Collection - it_pappa.win_print
 
 The `win_print` collection includes the modules to install, remove and configure printers and ports on windows servers. 
 
